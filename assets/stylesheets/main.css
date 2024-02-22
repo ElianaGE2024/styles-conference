@@ -64,3 +64,27 @@ table {
   padding-right: 30px;
   width: 960px;
 }
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+h1, h3, h4, h5, p {
+  margin-bottom: 22px;
+}
+
+/* 
+   =========================================
+    Grid 
+   ==========================================
+ */
+
+
+ *, 
+ *:before, 
+ *:after  { 
+  -webkit-box-sizing: border-box; 
+     -moz-box-sizing: border-box; 
+          box-sizing: border-box; 
+ }
